@@ -1,6 +1,8 @@
 # Historia de las Matemáticas
 
-## Trabajo de Historia
+## Teoría de la Información
+
+>- **Árboles de decisión**
 
 - Realizado por:
   + Maria Oliver Balsalobre
