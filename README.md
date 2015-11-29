@@ -1,8 +1,7 @@
 # Historia de las Matemáticas
 
 ## Teoría de la Información
-
->- **Árboles de decisión**
+#### *Árboles de Decisión*
 
 - Realizado por:
   + Maria Oliver Balsalobre
